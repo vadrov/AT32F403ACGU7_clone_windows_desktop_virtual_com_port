@@ -1,9 +1,0 @@
-﻿  Terminal.cpp
-  jpge.cpp
-  Создание кода...
-/Terminal.cpp(1,1): error C1356: не удается найти mspdbcore.dll
-  (компиляция исходного файла "/Terminal.cpp")
-  
-/jpge.cpp(1,1): error C1356: не удается найти mspdbcore.dll
-  (компиляция исходного файла "/jpge.cpp")
-  
